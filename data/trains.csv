@@ -1,0 +1,9 @@
+train_id,train_type,corridor,start_time,end_time
+T001,Passenger,C01,08:00,09:00
+T002,Express,C01,11:00,12:00
+T003,Goods,C01,14:00,15:00
+T004,Passenger,C02,09:00,10:00
+T005,Express,C02,13:00,14:00
+T006,Goods,C02,16:00,17:00
+T007,Passenger,C03,10:00,11:00
+T008,Express,C03,15:00,16:00

@@ -1,0 +1,7 @@
+block_id,corridor,start_time,end_time,available
+B001,C01,09:00,11:00,Yes
+B002,C01,12:00,14:00,Yes
+B003,C02,10:00,13:00,Yes
+B004,C02,14:00,16:00,Yes
+B005,C03,08:00,10:00,Yes
+B006,C03,11:00,15:00,Yes

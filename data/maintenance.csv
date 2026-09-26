@@ -1,0 +1,10 @@
+task_id,department,asset_type,location,corridor,duration_hours,criticality,urgency,overdue,safety_impact,status
+ENG001,Engineering,Track,KM 145.2,C01,2,High,High,Yes,High,Pending
+ENG002,Engineering,Track,KM 148.5,C01,3,Medium,Medium,No,Medium,Pending
+ENG003,Engineering,Bridge,KM 152.1,C02,4,High,High,Yes,High,Pending
+SIG001,Signal,Signal,KM 145.8,C01,1,Medium,Medium,No,Medium,Pending
+SIG002,Signal,Signal,KM 149.2,C01,2,High,High,Yes,High,Pending
+SIG003,Signal,Communication,KM 153.4,C02,2,Low,Low,No,Low,Pending
+TRC001,Traction,OHE,KM 146.5,C01,3,High,High,Yes,High,Pending
+TRC002,Traction,OHE,KM 150.3,C02,2,Medium,Medium,No,Medium,Pending
+TRC003,Traction,Substation,KM 155.1,C03,4,High,Medium,Yes,High,Pending
